@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "340904359060",
+    "project_id": "dl-healthcheck",
+    "storage_bucket": "dl-healthcheck.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340904359060:android:4ea7c658cde4b9f4abf081",
+        "android_client_info": {
+          "package_name": "com.dincer.lojistik.dincer_health_check_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340904359060-84a07k6gt6bn8qcs4l09lufpfoqsunvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHI6abbtfLXhRK3iEShWYFQPo_8h0cCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340904359060-84a07k6gt6bn8qcs4l09lufpfoqsunvn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "340904359060-8h645n02sb9g34qlrls9jiv9buuvfklr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dincer.lojistik.dincerHealthCheckService"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
