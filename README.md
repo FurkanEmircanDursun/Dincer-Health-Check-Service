@@ -25,10 +25,6 @@ Dinçer Health Control Service, kullanıcıların belirli API adreslerini düzen
 4. `pubspec.yaml` dosyasında belirtilen bağımlılıkları yükleyin: `flutter pub get`.
 5. Uygulamayı çalıştırın: `flutter run`.
 
-## Ekran Görüntüleri
-
-![Ekran Görüntüsü 1](screenshots/screenshot1.png)
-![Ekran Görüntüsü 2](screenshots/screenshot2.png)
 
 ## Katkıda Bulunma
 
